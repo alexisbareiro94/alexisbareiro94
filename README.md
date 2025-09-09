@@ -12,7 +12,7 @@
 
 ## 🚀 Tecnologías
 
-- **Backend**: PHP, Laravel
+- **Backend**: PHP, Laravel, Laravel Sail
 - **Bases de datos**: MySQL, PostgreSQL
 - **Frontend**: JavaScript, TailwindCSS
 - **DevOps**: Docker (aprendiendo 🐳)
