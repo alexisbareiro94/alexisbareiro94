@@ -37,6 +37,6 @@
 ¿Quieres trabajar juntos? ¡Hablemos!
 
 - 📧 Email: alexisblugo@gmail.com
-- 💼 LinkedIn: (https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/alexis-bareiro-29517487/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/alexis-bareiro-29517487)
 
 > 💬 ¿Tienes un proyecto en mente? ¡Estoy abierto a colaboraciones y nuevos retos!
