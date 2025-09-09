@@ -1,10 +1,20 @@
-## Hi there 👋
+# Hola 👋, soy Alexis Bareiro  
 
-<!--
-**alexisbareiro94/alexisbareiro94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de programación  
+💻 Backend developer en progreso con **Laravel** y **PostgreSQL/MySQL**  
+🌱 Actualmente aprendiendo **Laravel 12** y **Docker**  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- PHP | Laravel
+- MySQL | PostgreSQL
+- TailwindCSS (básico)
 
+## 📊 Stats
+![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisbareiro&show_icons=true&theme=radical)
+
+## 🌐 Conecta conmigo
+- [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- [Portafolio](https://tusitio.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
