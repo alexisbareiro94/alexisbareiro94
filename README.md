@@ -1,26 +1,42 @@
-# Hola 👋, soy Alexis Bareiro  
+# 👨‍💻 Alexis Bareiro — Backend Developer Jr. | Laravel Enthusiast
+
+> Construyendo aplicaciones robustas con código limpio y bases de datos eficientes.
+
+---
 
 🎓 Estudiante de programación  
-💻 Backend developer en progreso con **Laravel** y **PostgreSQL/MySQL**  
-🌱 Actualmente aprendiendo **Laravel 12** y **Docker**  
+💻 Backend developer jr con **Laravel** y **PostgreSQL/MySQL**  
+🌱 Actualmente aprendiendo **Laravel 12** y **Docker**
+
+---
 
 ## 🚀 Tecnologías
-- PHP | Laravel
-- MySQL | PostgreSQL
-- TailwindCSS (básico)
 
-## 📊 Stats
-![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisbareiro&show_icons=true&theme=radical)
+- **Backend**: PHP, Laravel
+- **Bases de datos**: MySQL, PostgreSQL
+- **Frontend**: JavaScript, TailwindCSS
+- **DevOps**: Docker (aprendiendo 🐳)
 
-## 🌐 Conecta conmigo
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- [Portafolio](https://tusitio.com)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 En Progreso
+
+- ✅ Laravel 12
+- ✅ Docker & Docker Compose
+- 🚧 Próximo: Testing (Pest), Redis
+
+---
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisbareiro94&layout=compact&theme=radical)
+
+---
+
+## 📬 Contacto
+
+¿Quieres trabajar juntos? ¡Hablemos!
+
+- 📧 Email: alexisblugo@gmail.com
+- 💼 LinkedIn: (https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/alexis-bareiro-29517487/)
+
+> 💬 ¿Tienes un proyecto en mente? ¡Estoy abierto a colaboraciones y nuevos retos!
