@@ -29,7 +29,7 @@
 ---
 ## 🌱 En Progreso (en orden de interés)
 
-Aquí están las tecnologías y conceptos que estoy aprendiendo o planeo dominar próximamente:  
+Aquí están las tecnologías y conceptos que estoy aprendiendo o planeo estudiar próximamente:  
 
 - 🚧 Testing (Pest)  
 - 🚧 Manejo de servidores  
