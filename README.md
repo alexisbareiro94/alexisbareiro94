@@ -27,14 +27,15 @@
 - APIs externas y consumo de servicios REST  
 
 ---
+## 🌱 En Progreso (en orden de interés)
 
-## 🌱 En Progreso
+Aquí están las tecnologías y conceptos que estoy aprendiendo o planeo dominar próximamente:  
 
-- ✅ Laravel 12  
-- ✅ Docker & Docker Compose  
-- 🚧 Próximo: Testing (Pest)
+- 🚧 Testing (Pest)  
+- 🚧 Manejo de servidores  
+- 🚧 Docker avanzado (sin Laravel Sail)  
+- 🚧 Vue.js o React
 
----
 
 ## 📊 GitHub Stats
 
