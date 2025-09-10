@@ -10,22 +10,32 @@
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Stack Principal
 
-- **Backend**: PHP, Laravel, Laravel Sail
-- **Bases de datos**: MySQL, PostgreSQL
-- **Frontend**: JavaScript, TailwindCSS
-- **DevOps**: Docker (aprendiendo 🐳)
+- **Backend:** PHP, Laravel 12, Laravel Sail  
+- **Bases de datos:** MySQL, PostgreSQL  
+- **Frontend:** JavaScript, TailwindCSS  
+
+---
+
+## 🛠️ Otras Herramientas Usadas
+- Redis  
+- Livewire  
+- WebSockets (Laravel Reverb)  
+- Queues y Jobs en Laravel  
+- Git & GitHub
+- APIs externas y consumo de servicios REST  
 
 ---
 
 ## 🌱 En Progreso
 
-- ✅ Laravel 12
-- ✅ Docker & Docker Compose
-- 🚧 Próximo: Testing (Pest), Redis
+- ✅ Laravel 12  
+- ✅ Docker & Docker Compose  
+- 🚧 Próximo: Testing (Pest), Redis  
 
 ---
+
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisbareiro94&layout=compact&theme=radical)
@@ -36,7 +46,7 @@
 
 ¿Quieres trabajar juntos? ¡Hablemos!
 
-- 📧 Email: alexisblugo@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/alexis-bareiro-29517487)
+- 📧 Email: alexisblugo@gmail.com  
+- 💼 LinkedIn: [alexis-bareiro](https://www.linkedin.com/in/alexis-bareiro-29517487)
 
 > 💬 ¿Tienes un proyecto en mente? ¡Estoy abierto a colaboraciones y nuevos retos!
