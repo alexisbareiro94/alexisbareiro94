@@ -32,7 +32,7 @@
 
 - ✅ Laravel 12  
 - ✅ Docker & Docker Compose  
-- 🚧 Próximo: Testing (Pest), Redis  
+- 🚧 Próximo: Testing (Pest)
 
 ---
 
