@@ -23,7 +23,6 @@
 - Livewire  
 - WebSockets (Laravel Reverb)  
 - Queues y Jobs en Laravel  
-- Git & GitHub
 - APIs externas y consumo de servicios REST  
 
 ---
