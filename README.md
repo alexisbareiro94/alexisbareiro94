@@ -6,7 +6,6 @@
 
 🎓 Estudiante de programación  
 💻 Backend developer jr con **Laravel** y **PostgreSQL/MySQL**  
-🌱 Actualmente aprendiendo **Laravel 12** y **Docker**
 
 ---
 
