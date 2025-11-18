@@ -26,7 +26,7 @@
 - Laravel Forge
 
 ---
-## 🌱 En Progreso (en orden de interés)
+## 🌱 En Progreso
 
 Aquí están las tecnologías y conceptos que estoy aprendiendo o planeo estudiar próximamente:  
 
