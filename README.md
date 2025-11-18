@@ -22,7 +22,8 @@
 - Livewire  
 - WebSockets (Laravel Reverb)  
 - Queues y Jobs en Laravel  
-- APIs externas y consumo de servicios REST  
+- APIs externas y consumo de servicios REST
+- Larvel Forge
 
 ---
 ## 🌱 En Progreso (en orden de interés)
