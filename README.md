@@ -23,7 +23,7 @@
 - WebSockets (Laravel Reverb)  
 - Queues y Jobs en Laravel  
 - APIs externas y consumo de servicios REST
-- Larvel Forge
+- Laravel Forge
 
 ---
 ## 🌱 En Progreso (en orden de interés)
